@@ -2,7 +2,7 @@
 
 <a href="https://github.com/VuongQuocHung">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1800&pause=700&color=FF4F81&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+V%C6%B0%C6%A1ng+Qu%E1%BB%91c+H%C6%B0ng;%E2%AD%90+Star+my+repositories+if+useful"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1800&pause=700&color=FF4F81&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+V%C6%B0%C6%A1ng+Qu%E1%BB%91c+H%C6%B0ng"
     alt="Typing SVG"
   />
 </a>
@@ -13,20 +13,36 @@
   I enjoy building practical web applications and integrating AI into real-world products.
 </p>
 
-
 <h3>I code with</h3>
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,java,python,mongodb,mysql" />
+<img
+  src="https://skillicons.dev/icons?i=ts,js,nodejs,express,react,java,python,mongodb,mysql"
+  alt="Technologies I code with"
+/>
 
 <br/>
 
 <h3>I'm also familiar with</h3>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,pytorch,vscode" />
+<img
+  src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,pytorch,vscode"
+  alt="Other tools and technologies"
+/>
 
 </div>
 
 <div align="center">
+
+<h3>📊 GitHub Stats</h3>
+
+<a href="https://github.com/VuongQuocHung">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=VuongQuocHung&show_icons=true&border_radius=25&theme_light=default&theme_dark=dracula"
+    alt="GitHub Stats"
+  />
+</a>
+
+<br/>
 
 <a href="https://github.com/VuongQuocHung">
   <img
@@ -42,15 +58,24 @@
 <h3>You can find me on</h3>
 
 <a href="https://www.linkedin.com/in/quoc-hung-39a3b0284">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
 
 <a href="https://www.facebook.com/vqh27102005">
-  <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
 </a>
 
 <a href="mailto:qhunf8a@gmail.com">
-  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img
+    src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 </div>
