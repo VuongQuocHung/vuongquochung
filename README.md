@@ -53,29 +53,16 @@
 
 </div>
 
-<div align="center">
+<details>
+<summary><h3>🔥 Featured Projects:</h3></summary>
 
-<h3>You can find me on</h3>
+[![TravelHub](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=TravelHub&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/TravelHub)
+[![HireHub-FE](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=HireHub-FE&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/HireHub-FE)
+[![E-Commerce](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=E-Commerce&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/E-Commerce)
+[![File-Manager](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=File-Manager&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/File-Manager)
+[![HireHub-BE](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=HireHub-BE&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/HireHub-BE)
+[![Chat-Realtime](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=Chat-Realtime&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/Chat-Realtime)
 
-<a href="https://www.linkedin.com/in/quoc-hung-39a3b0284">
-  <img
-    src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="https://www.facebook.com/vqh27102005">
-  <img
-    src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    alt="Facebook"
-  />
-</a>
-
-<a href="mailto:qhunf8a@gmail.com">
-  <img
-    src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
+</details>
 
 </div>
