@@ -37,7 +37,7 @@
 
 <a href="https://github.com/VuongQuocHung">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=VuongQuocHung&show_icons=true&border_radius=25&theme_light=default&theme_dark=dracula"
+    src="https://github-stats-extended.vercel.app/api?username=VuongQuocHung&v=2&show_icons=true&border_radius=25&theme_light=default&theme_dark=dracula"
     alt="GitHub Stats"
   />
 </a>
@@ -46,7 +46,7 @@
 
 <a href="https://github.com/VuongQuocHung">
   <img
-    src="https://streak-stats.demolab.com?user=VuongQuocHung&theme=tokyonight-duo&hide_border=true&card_height=170"
+    src="https://streak-stats.demolab.com?user=VuongQuocHung&v=2&theme=tokyonight-duo&hide_border=true&card_height=170"
     alt="GitHub Streak"
   />
 </a>
@@ -56,12 +56,12 @@
 <details>
 <summary><h3>🔥 Featured Projects:</h3></summary>
 
-[![TravelHub](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=TravelHub&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/TravelHub)
-[![HireHub-FE](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=HireHub-FE&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/HireHub-FE)
-[![E-Commerce](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=E-Commerce&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/E-Commerce)
-[![File-Manager](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=File-Manager&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/File-Manager)
-[![HireHub-BE](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=HireHub-BE&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/HireHub-BE)
-[![Chat-Realtime](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=Chat-Realtime&theme_light=light_github_repocard&theme_dark=dark_github_repocard)](https://github.com/VuongQuocHung/Chat-Realtime)
+[![TravelHub](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=TravelHub&theme_light=light_github_repocard&theme_dark=dark_github_repocard&v=2)](https://github.com/VuongQuocHung/TravelHub)
+[![HireHub-FE](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=HireHub-FE&theme_light=light_github_repocard&theme_dark=dark_github_repocard&v=2)](https://github.com/VuongQuocHung/HireHub-FE)
+[![E-Commerce](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=E-Commerce&theme_light=light_github_repocard&theme_dark=dark_github_repocard&v=2)](https://github.com/VuongQuocHung/E-Commerce)
+[![File-Manager](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=File-Manager&theme_light=light_github_repocard&theme_dark=dark_github_repocard&v=2)](https://github.com/VuongQuocHung/File-Manager)
+[![HireHub-BE](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=HireHub-BE&theme_light=light_github_repocard&theme_dark=dark_github_repocard&v=2)](https://github.com/VuongQuocHung/HireHub-BE)
+[![Chat-Realtime](https://github-stats-extended.vercel.app/api/pin?username=VuongQuocHung&repo=Chat-Realtime&theme_light=light_github_repocard&theme_dark=dark_github_repocard&v=2)](https://github.com/VuongQuocHung/Chat-Realtime)
 
 </details>
 
