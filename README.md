@@ -1,11 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/VuongQuocHung">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=1800&pause=700&color=FF4F81&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi+there%2C+I%27m+V%C6%B0%C6%A1ng+Qu%E1%BB%91c+H%C6%B0ng"
-    alt="Typing SVG"
-  />
-</a>
+<h1 align="center">
+  <a>👋 Hello, My name is Vương Quốc Hưng</a>
+</h1>
 
 <h3>Backend Developer • Full-stack Web • AI Applications</h3>
 
